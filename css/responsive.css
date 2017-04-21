@@ -1,0 +1,10 @@
+@media screen and (max-width: 320px){
+	.slidecontent{top: 112px;}
+	.btn-group-lg>.btn, .btn-lg{padding: 8px 10px;font-size: 13px;}
+	.left_content a{margin-bottom: 52px;margin-top:20px;}
+	.pic img{margin-bottom: 25px;margin-left:24px;}
+	.footer1{margin-bottom:46px;}
+	.right_content{margin-top:70px;}
+	.content_bottom{margin-top:50px;padding:100px 0;}
+}
+
